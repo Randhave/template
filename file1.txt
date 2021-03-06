@@ -1,3 +1,6 @@
 hello world , My name is aniket 
 currently i started learning git and github 
 how to use and how it word
+adding data into on github
+
+
